@@ -7,7 +7,7 @@ Deuxième projet du parcours développeur web chez OpenClassrooms : "Transformez
 L'objectif est de réaliser l'intégration de la maquette d'un site de planification de vacances nommé "Reservia" (voir l'image ci-dessous).
 
 
-![image](https://github.com/MehdiBoutab/Openclassroom-Projet-2-Reservia/blob/6760e5bbcfeed179fb6d8423b7718009108d184c/Maquette/Desktop%20-%201.png)
+![image](https://github.com/MehdiBoutab/OpenClassroom-Projet-2-Reservia/blob/main/Maquette/Desktop%20-%201.png)
 
 ## Visualiser le site
 Le code a été versionner sur GIT et déployé sur GITHUB [clique ici](https://mehdiboutab.github.io/OpenClassroom-Projet-2-Reservia/)
