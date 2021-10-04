@@ -10,7 +10,7 @@ L'objectif est de réaliser l'intégration de la maquette d'un site de planifica
 ![image](https://github.com/MehdiBoutab/Openclassroom-Projet-2-Reservia/blob/6760e5bbcfeed179fb6d8423b7718009108d184c/Maquette/Desktop%20-%201.png)
 
 ## Visualiser le site
-Le code a été versionner sur GIT et déployé sur GITHUB [clique ici](https://mehdiboutab.github.io/Openclassroom-Projet-2-Reservia/)
+Le code a été versionner sur GIT et déployé sur GITHUB [clique ici](https://mehdiboutab.github.io/OpenClassroom-Projet-2-Reservia/)
 
 ## Technologies, logiciels et langages utilisés
 - Visual Studio Code
